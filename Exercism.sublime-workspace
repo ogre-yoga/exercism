@@ -1,0 +1,601 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ease",
+				"ease-out"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"dark",
+				"dark-grey"
+			],
+			[
+				"filter",
+				"filterProjects"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"mi",
+				"mid-grey"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"bi",
+				"bi-guide"
+			],
+			[
+				"init",
+				"initInputs"
+			],
+			[
+				"btn_remove",
+				"btn_remove-milestone"
+			],
+			[
+				"dar",
+				"dark-grey"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"light",
+				"light-grey"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pFi",
+				"pFinOpp"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"li",
+				"light-grey"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ma",
+				"manager"
+			],
+			[
+				"no",
+				"noSearch"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"get",
+				"getQueryVariable"
+			],
+			[
+				"menu",
+				"menu-left"
+			],
+			[
+				"men",
+				"menuStateSwitch"
+			],
+			[
+				"act",
+				"activeTab"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"vUser",
+				"vUserGreeting"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"re",
+				"repeat-y\tbackground-repeat"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"is",
+				"is-aqua"
+			],
+			[
+				"disa",
+				"disableBtn"
+			],
+			[
+				"submit",
+				"submitCreds"
+			],
+			[
+				"de",
+				"debounceFn"
+			],
+			[
+				"sel",
+				"selectedIndex"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"t",
+				"toggleValidationMessage"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"close",
+				"closeMenu"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"m",
+				"mid-grey"
+			],
+			[
+				"as",
+				"addEventListenerList"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"text-",
+				"text-transform\tproperty"
+			],
+			[
+				"s",
+				"stylesheet"
+			],
+			[
+				"word",
+				"word-break\tproperty"
+			],
+			[
+				"lis",
+				"list-style-position\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"v",
+				"vertical-align\tproperty"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"subs",
+				"substring"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"border-image",
+				"border-image-width\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"next",
+				"nextButton"
+			],
+			[
+				"handleham",
+				"handleResizeHamburger"
+			],
+			[
+				"mar",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pac",
+				"Package Control: Discover Packages"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/adam/Exercism",
+		"/Users/adam/Exercism/ruby"
+	],
+	"file_history":
+	[
+		"/Users/adam/OneDrive - BWD/Bright_Food/bi.local/app/public/E06_Project_Project-archived .html",
+		"/Users/adam/OneDrive - BWD/Bright_Food/bi.local/app/public/E00_Email-Template.html",
+		"/Users/adam/OneDrive - BWD/Bright_Food/bi.local/app/public/E07_Project_Submit_G1-Review.html",
+		"/Users/adam/Dev/test_3/app/views/users/create.html.erb",
+		"/Users/adam/Dev/test_3/config/database.yml",
+		"/Users/adam/Dev/testApp/config/database.yml",
+		"/Users/adam/Dev/myapp/Gemfile",
+		"/Users/adam/OneDrive - BWD/Bright_Food/bi.local/app/public/js/bi-project-detail-g1-review-min.js",
+		"/Users/adam/OneDrive - BWD/Bright_Food/bi.local/app/public/js/bi-project-detail.js",
+		"/Users/adam/OneDrive - BWD/Bright_Food/bi.local/app/public/sass/libs/bulma/bulma.sass",
+		"/Users/adam/OneDrive - BWD/Bright_Food/bi.local/app/public/js/bi-submit-idea.js",
+		"/Users/adam/OneDrive - BWD/Bright_Food/bi.local/app/public/js/api-mocks/get-search-results.json",
+		"/Users/adam/OneDrive - BWD/Bright_Food/bi.local/app/public/js/api-mocks/get-range-reviews-from-now.json",
+		"/Users/adam/OneDrive - BWD/Bright_Food/bi.local/app/public/js/api-mocks/get-user-current-projects.json",
+		"/Users/adam/OneDrive - BWD/Bright_Food/bi.local/app/public/10_dashboard.html",
+		"/Volumes/Data/BW_CLIENTS_CURRENT/BWD/BWD WEBSITE 2018+/Design/2019 Updates/Client Logos SVG/_IMPORTANT_ADD-THIS-TO-SVG-BEFORE-UPLOAD.txt",
+		"/Users/adam/OneDrive - BWD/Bright_Food/bi.local/app/public/css/bright-ideas-ui.css",
+		"/Users/adam/OneDrive - BWD/Bright_Food/bi.local/app/public/01_request-account.html",
+		"/Users/adam/OneDrive - BWD/Bright_Food/Nov_2019/_app_global-UI.html",
+		"/Users/adam/OneDrive - BWD/Bright_Food/Nov_2019/_app_external-UI.html",
+		"/Users/adam/OneDrive - BWD/Bright_Food/Nov_2019/js/bi-ui.js",
+		"/Users/adam/OneDrive - BWD/Bright_Food/Nov_2019/js/bi-validation.js",
+		"/Users/adam/OneDrive - BWD/Bright_Food/Nov_2019/sass/bright-ideas.scss",
+		"/Users/adam/OneDrive - BWD/Bright_Food/Nov_2019/00_app-base.html",
+		"/Users/adam/OneDrive - BWD/Bright_Food/Nov_2019/sass/_slideout.scss",
+		"/Users/adam/OneDrive - BWD/Bright_Food/Nov_2019/sass/_bright-ideas.scss",
+		"/Users/adam/OneDrive - BWD/Bright_Food/Nov_2019/css/bright-ideas-ui.css",
+		"/Volumes/Data/BW_CLIENTS_CURRENT/BWD/BWD Future-proof /04 EDM Template/CM-template_Future-Proof_Nov19_f-2.html",
+		"/Volumes/Data/BW_CLIENTS_CURRENT/BWD/BWD Future-proof /04 EDM Template/CM-template_Future-Proof_Nov19_f.html",
+		"/Users/adam/Downloads/Cerberus-master/CM_template_Future-Proof_Nov19_f.html",
+		"/Volumes/Data/BW_CLIENTS_CURRENT/BWD/BWD WEBSITE 2018+/Design/2019 Business Case Video EDM/EDM_b-case_FINAL_20191025.html",
+		"/Users/adam/Downloads/Cerberus-master/CM_template_Future-Proof_Nov19.html",
+		"/Users/adam/Library/Caches/Transmit/1B79DDEB-4F25-424B-89CF-D96DAE830E36/220.233.151.5/home/bwdcreative/public_html/wp-content/themes/bwd-rebuild/template-parts/content-bcase.php",
+		"/Users/adam/Library/Caches/Transmit/F9D69F64-EA71-459B-BFCC-DBCA4F7E03AC/220.233.151.5/home/bwdcreative/public_html/wp-content/themes/bwd-rebuild/blocks/bcase_2019.php",
+		"/Users/adam/Library/Caches/Transmit/BA16B12B-42DF-493E-8D91-51146E869AEB/220.233.151.5/home/bwdcreative/public_html/wp-content/themes/bwd-rebuild/header.php",
+		"/Users/adam/Library/Caches/Transmit/AA8625A9-C86F-4BA3-B790-80F47E345EDD/220.233.151.5/home/bwdcreative/public_html/wp-content/themes/bwd-rebuild/template-parts/content-bcase.php",
+		"/Users/adam/Library/Caches/Transmit/528EDAF0-D6C1-486A-A887-01A01208608E/220.233.151.5/home/bwdcreative/public_html/wp-content/themes/bwd-rebuild/page_bwd-2019.php",
+		"/Users/adam/Downloads/Cerberus-master/2019 video EDM/edm_FINAL.html",
+		"/Users/adam/Library/Caches/Transmit/3BCFA07F-F6CC-478F-A7FB-EA57E921B380/220.233.151.5/home/bwdcreative/public_html/wp-content/themes/bwd-rebuild/template-parts/content-work_categories.php",
+		"/Users/adam/Library/Caches/Transmit/C265AC6D-D2EE-4B8E-8A74-C495AABB929C/220.233.151.5/home/bwdcreative/public_html/wp-content/themes/bwd-rebuild/taxonomy-work_categories.php",
+		"/Users/adam/Library/Caches/Transmit/81A73622-F82E-4CE5-91DE-EBE57A9DC8FA/220.233.151.5/home/bwdcreative/public_html/wp-content/themes/bwd-rebuild/template-parts/content-mansory-work.php",
+		"/Users/adam/Library/Caches/Transmit/93D00FDA-DA5F-48E9-A368-4610A5EA5FCD/220.233.151.5/home/bwdcreative/public_html/wp-content/themes/bwd-rebuild/header.php",
+		"/Users/adam/Library/Caches/Transmit/B77C8A57-5DDB-44D2-A4BD-CD07EDFF7DFA/220.233.151.5/home/bwdcreative/public_html/wp-content/themes/bwd-rebuild/funcs/init.php",
+		"/Users/adam/Library/Caches/Transmit/4466E26F-6497-4982-B30A-4DD164762C45/220.233.151.5/home/bwdcreative/public_html/wp-content/themes/bwd-rebuild/single-work_page.php",
+		"/Users/adam/Library/Caches/Transmit/1EBE1E9A-C020-4DF8-9008-7512B79CC1F5/220.233.151.5/home/bwdcreative/public_html/wp-content/themes/bwd-rebuild/taxonomy-work_categories.php",
+		"/Users/adam/Library/Caches/Transmit/A999EB02-A1ED-42DC-A49C-547812849327/220.233.151.5/home/bwdcreative/public_html/wp-content/themes/bwd-rebuild/page-content-blocks.php",
+		"/Users/adam/Library/Caches/Transmit/26280CAB-A64D-44C4-8BBF-40B75AFE4449/220.233.151.5/home/bwdcreative/public_html/wp-content/themes/bwd-rebuild/taxonomy_work_categories.php",
+		"/Users/adam/Downloads/Cerberus-master/2019 video EDM/edm_bus-case.html",
+		"/Users/adam/Downloads/Cerberus-master/2019 video EDM/edm_bus-case_ABS.html",
+		"/Users/adam/Downloads/Cerberus-master/2019 video EDM/edm_bus-case_ABS_clipboard.html",
+		"/Users/adam/Local Sites/zurbTest/index.html",
+		"/Users/adam/Library/Caches/Transmit/1C22297A-6E5B-4E64-B38D-F54D71761737/220.233.151.5/home/bwdcreative/public_html/wp-content/themes/bwd-rebuild/page_bwd-2019.php",
+		"/Users/adam/Library/Caches/Transmit/07230AB4-7BAC-41E4-A929-E95150BE6234/220.233.151.5/home/bwdcreative/public_html/wp-content/themes/bwd-rebuild/single-thoughts_page.php",
+		"/Users/adam/Downloads/Cerberus-master/edm_bus-case.html",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/blocks/services_2019.php",
+		"/Users/adam/Library/Caches/Transmit/A0B9004B-425E-4EC7-B947-519C0719AB36/220.233.151.5/home/bwdcreative/public_html/wp-content/themes/bwd-rebuild/assets/styles/updates.css",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/assets/styles/updates.css",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/template-parts/content-blocks.php",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/blocks/video-hero.php",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/blocks/video_hero.php",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/template-parts/content-work.php",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/functions.php",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/funcs/ptype-work.php",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/blocks/our_specialities.php",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/work_categories_blocks/html_content.php",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/work-blocks/training_brief.php",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/work_categories_blocks/the_brief.php",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/work-blocks/quote.php",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/work-blocks/html_content.php",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/assets/styles/main.css",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/assets/scripts/main.js",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/header.php",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/assets/styles/hamburgers.css",
+		"/Users/adam/Local Sites/stagingbwddigital/app/public/wp-content/themes/bwd-rebuild/blocks/four_cs_blade.php",
+		"/Users/adam/Library/Caches/Transmit/8A65FF33-35C9-43A2-8597-C3DA47ED6AA1/220.233.151.5/home/bwdcreative/public_html/.htaccess",
+		"/Users/adam/Local Sites/bwd2019/app/public/wp-content/themes/bwd-rebuild/assets/styles/main.css",
+		"/Users/adam/Local Sites/bwd2019/app/public/wp-content/themes/bwd-rebuild/functions.php",
+		"/Users/adam/Local Sites/bwd2019/app/public/wp-content/themes/bwd-rebuild/assets/styles/main.css.20181216",
+		"/Users/adam/Local Sites/bwd2019/app/public/wp-content/themes/bwd-rebuild/assets/styles/main.css.20180515",
+		"/Users/adam/Local Sites/bwd2019/app/public/wp-content/themes/bwd-rebuild/style.css",
+		"/Users/adam/OneDrive - BWD/CBA_2019-Report_EDM/Development/EDM02_Version-05_20190802/CBA_EDM_02-FYR_2019_local.html",
+		"/Users/adam/Library/Caches/Transmit/54389B48-B3FA-4DA0-B4E8-9AEC61F5FC97/220.233.151.5/home/bwdcreative/public_html/wp-config.php",
+		"/Users/adam/OneDrive - BWD/CBA_2019-Report_EDM/Development/EDM02_Version-04_20190731/CBA_EDM_02-FYR_2019_local.html",
+		"/Users/adam/OneDrive - BWD/CBA_2019-Report_EDM/Development/EDM02_Version-04_20190731/CBA_EDM_02-FYR_2019_WEB.html",
+		"/Users/adam/Downloads/CBA 2019 full year results and final dividend announcement.ics",
+		"/Users/adam/OneDrive - BWD/CBA_2019-Report_EDM/Development/EDM02 Version 20190730 /CBA_EDM_02-FYR_2019_local.html",
+		"/Users/adam/OneDrive - BWD/CBA_2019-Report_EDM/Development/Tested_20190724/CBA_EDM_02-FYR_2019.html",
+		"/Users/adam/OneDrive - BWD/CBA_2019-Report_EDM/Development/Untested_v2_20190724/CBA_EDM_01-FYRB_2019.html",
+		"/Users/adam/OneDrive - BWD/CBA_2019-Report_EDM/Development/Untested_v2_20190724/CBA_EDM_02-FYR_2019.html",
+		"/Users/adam/Local Sites/bwd2019/app/public/.gitignore",
+		"/Users/adam/Library/Caches/Transmit/7FCECF0E-A398-417B-9C05-845223B5A360/220.233.151.5/home/bwdcreative/public_html/wp-config.php",
+		"/Users/adam/Library/Caches/Transmit/5A48B2D4-10FA-46C1-8E18-1319B09C77D3/220.233.151.5/home/bwdcreative/public_html/wp-config.php",
+		"/Users/adam/Downloads/php.ini",
+		"/Users/adam/Downloads/Cerberus-master/CBA_EDM_01A_2019.html",
+		"/Users/adam/Downloads/Cerberus-master/CBA_EDM_01-FYRB_2019.html",
+		"/Users/adam/Downloads/Cerberus-master/CBA_EDM_02-FYR_2019.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 485.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Exercism.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 381.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
