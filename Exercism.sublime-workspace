@@ -315,6 +315,31 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "ruby/hello-world/hello_world.rb",
+			"settings":
+			{
+				"buffer_size": 292,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ruby/hello-world/GETTING_STARTED.md",
+			"settings":
+			{
+				"buffer_size": 3631,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ruby/hello-world/README.md",
+			"settings":
+			{
+				"buffer_size": 1491,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -327,6 +352,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
 			[
 				"indent",
 				"Indentation: Reindent Lines"
@@ -377,7 +406,8 @@
 	"expanded_folders":
 	[
 		"/Users/adam/Exercism",
-		"/Users/adam/Exercism/ruby"
+		"/Users/adam/Exercism/ruby",
+		"/Users/adam/Exercism/ruby/hello-world"
 	],
 	"file_history":
 	[
@@ -511,8 +541,95 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "ruby/hello-world/hello_world.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								292
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ruby/hello-world/GETTING_STARTED.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3614,
+								3599
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1245.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ruby/hello-world/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1165,
+								1123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
