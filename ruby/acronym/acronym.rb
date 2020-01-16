@@ -3,8 +3,6 @@ class Acronym
     phrase.scan(/\b[a-zA-Z]/).map{ |word| word[0] }.join.upcase
   end
 end
-<<<<<<< HEAD
-=======
 
 =begin
   
@@ -39,4 +37,3 @@ module Acronym
 end
   
 =end
->>>>>>> origin
