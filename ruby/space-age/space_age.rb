@@ -1,27 +1,28 @@
 class SpaceAge
-  #immutable constant until earth's orbit changes (once every 100,000 years or so)
-  SECONDS_IN_EARTH_YEAR = 31557600.freeze
 
-  #mutable constant hash for extensibility by intergalactic students
-  ORBITS_IN_EARTH_YEARS = { "Mercury" => 0.2408467,
-                            "Venus" => 0.61519726,
-                            "Earth" =>  1.00,
-                            "Mars" => 1.8808158,
-                            "Jupiter" => 11.862615,
-                            "Saturn" => 29.447498,
-                            "Uranus" => 84.016846,
-                            "Neptune" => 164.79132 }
+  # @kotp Thanks for coaching this class exercise into a supermodel
+  # I do think that losing the first constant sweeps a datapoint under the carpet just to clean up method ops
+  # The hash has no way to be validated, it needs to be taken "as is"
 
-  attr_reader :age_in_earth_years
+  ORBIT_PER_EARTH_YEAR_IN_SECONDS = { "Mercury" =>    7600543.81992,
+                                      "Venus"   =>   19414149.052176,
+                                      "Earth"   =>   31557600.0,
+                                      "Mars"    =>   59354032.690079994,
+                                      "Jupiter" =>  374355659.124,
+                                      "Saturn"  =>  929292362.8848,
+                                      "Uranus"  => 2651370019.3296,
+                                      "Neptune" => 5200418560.032001 }
+
+  attr_reader :age_in_seconds
 
   def initialize(age_in_seconds)
-    @age_in_earth_years = age_in_seconds.to_f / SECONDS_IN_EARTH_YEAR
+    @age_in_seconds = age_in_seconds
+  end
 
-    ORBITS_IN_EARTH_YEARS.each do |planet, orbital_period|
-      self.class.send(:define_method, "on_" + planet.downcase){
-        age_in_earth_years / orbital_period
-      }
-    end
+  ORBIT_PER_EARTH_YEAR_IN_SECONDS.each do |planet, orbital_period|
+    define_method("on_" + planet.downcase){
+      age_in_seconds / orbital_period
+    }
   end
 
 end
