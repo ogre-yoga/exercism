@@ -1,11 +1,10 @@
 class Matrix
 
-  attr_reader :arrays, :rows, :columns
+  attr_reader :rows, :columns
 
   def initialize(string_of_numbers)
-    @arrays = string_of_numbers.split(/[\n]/).map{ |item| item.strip.split(/[^\d]/).map{ |item| item.to_i }}
-    @rows = arrays
-    @columns = arrays.transpose
+    @rows = string_of_numbers.lines.map(&:to_s.split.map(&:to_i))
+    @columns = rows.transpose
   end
 
 end
